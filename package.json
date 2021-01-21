@@ -164,7 +164,7 @@
     "strip-ansi": "^5.2.0",
     "set-blocking": "^2.0.0",
     "supports-color": "^2.0.0",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "tfunk": "^3.1.0",
     "string-width": "^3.1.0",
     "symbol-observable": "^1.0.1",
