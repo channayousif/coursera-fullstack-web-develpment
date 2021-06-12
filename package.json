@@ -91,7 +91,7 @@
     "has-binary2": "^1.0.3",
     "has-cors": "^1.1.0",
     "graceful-fs": "^4.2.4",
-    "glob-parent": "^5.1.1",
+    "glob-parent": "^5.1.2",
     "has-ansi": "^2.0.0",
     "http-errors": "^1.6.3",
     "indexof": "^0.0.1",
