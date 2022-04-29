@@ -28,7 +28,7 @@
     "anymatch": "^3.1.1",
     "ansi-regex": "^2.1.1",
     "ansi-styles": "^2.2.1",
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "backo2": "^1.0.2",
     "axios": "^0.19.0",
     "balanced-match": "^1.0.0",
