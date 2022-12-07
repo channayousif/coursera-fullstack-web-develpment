@@ -140,7 +140,7 @@
     "picomatch": "^2.2.2",
     "portscanner": "^2.1.1",
     "raw-body": "^2.4.1",
-    "qs": "^6.2.3",
+    "qs": "^6.2.4",
     "readdirp": "^3.4.0",
     "range-parser": "^1.2.1",
     "require-directory": "^2.1.1",
