@@ -170,7 +170,7 @@
     "symbol-observable": "^1.0.1",
     "to-regex-range": "^5.0.1",
     "to-array": "^0.1.4",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.33",
     "ultron": "^1.1.1",
     "toidentifier": "^1.0.0",
     "which-module": "^2.0.0",
